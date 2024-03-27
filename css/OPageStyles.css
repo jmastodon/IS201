@@ -1,0 +1,52 @@
+/* A custom background color */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: rgb(17, 235, 162);
+}
+
+ol{
+    list-style: none;
+    text-align: center;
+}
+
+li{
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.TitlesAndHeadings{
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(8, 52, 117);
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.footerBox{
+    border-width: 1px;
+    border-style: solid;
+    background-color: rgb(17, 235, 162);
+    border-color: rgb(17, 235, 162);
+}
